@@ -13,12 +13,12 @@ const Home = () => {
 <div className="flex w-full h-72">
   {/* First Div */}
   <div className="w-1/2 font-bold bg-purple-400 text-center text-white flex items-center justify-center">
-   CLASSS - 11   ASSIGNMENT -6 
+   CLASSS - 11   ASSIGNMENT - 6 
   </div>
 
   {/* Second Div */}
   <div className="w-1/2 bg-fuchsia-500  font-bold text-center text-white flex items-center justify-center">
-  CLASSS - 11   ASSIGNMENT -6
+  CLASSS - 11   ASSIGNMENT - 6
   </div>
 </div>
 </div>
